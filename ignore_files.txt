@@ -1,2 +1,4 @@
 *.pyc
 config.py
+ignore_file.txt
+run.py
