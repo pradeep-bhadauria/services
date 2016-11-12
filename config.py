@@ -10,6 +10,6 @@ PREFERRED_URL_SCHEME = 'http'
 
 SECRET_KEY = 'this-really-needs-to-be-changed'
 
-SQLALCHEMY_DATABASE_URI = 'postgres-uri-goes-here'
+SQLALCHEMY_DATABASE_URI = 'postgres://jcepytxffjskun:heHyQX9CwinC9EpJCZIceXAGR4@ec2-54-163-239-63.compute-1.amazonaws.com:5432/d241q24dttbkg1'
 SQLALCHEMY_ECHO = True
 DATABASE_CONNECT_OPTIONS = {}
